@@ -1,0 +1,6 @@
+SecurityOS x86_64 booted
+Kernel services initialized
+SecurityOS shell ready. Commands: memcheck integrity procstat vuln-demo
+secos> ????????
+Unknown command
+secos> 

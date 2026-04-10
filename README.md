@@ -104,3 +104,4 @@ The detailed plan lives in:
 - [Security Engine](/Volumes/Blockchain Drive/HighLevelSoftwares/SecurityOS/docs/SECURITY_ENGINE.md)
 - [Implementation Steps](/Volumes/Blockchain Drive/HighLevelSoftwares/SecurityOS/docs/IMPLEMENTATION_PLAN.md)
 # SNSX-SecurityOS
+# SNSX-SecurityOS
