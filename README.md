@@ -1,4 +1,4 @@
-# SecurityOS
+# SecurityOS Version I
 
 SecurityOS is a from-scratch x86/x86-64 microkernel-oriented operating system written primarily in NASM assembly with a security-first design.
 
@@ -103,5 +103,7 @@ The detailed plan lives in:
 - [Boot Plan](/Volumes/Blockchain Drive/HighLevelSoftwares/SecurityOS/docs/BOOTFLOW.md)
 - [Security Engine](/Volumes/Blockchain Drive/HighLevelSoftwares/SecurityOS/docs/SECURITY_ENGINE.md)
 - [Implementation Steps](/Volumes/Blockchain Drive/HighLevelSoftwares/SecurityOS/docs/IMPLEMENTATION_PLAN.md)
-# SNSX-SecurityOS
-# SNSX-SecurityOS
+
+## Developer & Note
+- Satya Narayan Sahu
+- This system is the first version of Cyber Security Featuring OS with most advanced tools and everything and only for educational purpose and usabilty will be allowed after the permission granted by the developer, and at basic it is not allowed for others to copy/modify/commericial use or anything.
