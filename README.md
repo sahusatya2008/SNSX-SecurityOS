@@ -1,4 +1,4 @@
-# SecurityOS Version I
+# SNSX - SecurityOS Version I
 
 SecurityOS is a from-scratch x86/x86-64 microkernel-oriented operating system written primarily in NASM assembly with a security-first design.
 
